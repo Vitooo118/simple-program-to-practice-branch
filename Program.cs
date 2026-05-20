@@ -12,7 +12,12 @@ public class Program
                     Console.WriteLine(args[i+1]);
 
                 break;
+                case("soma"):
+                    Console.WriteLine(int.Parse(Console.ReadLine()) + int.Parse(Console.ReadLine()));
+                 
+                break;
             }
+
         }
 
 
