@@ -1,0 +1,14 @@
+/home/victor/Documentos/seilaal/slaa.cs/bin/Debug/net10.0/slaa.cs
+/home/victor/Documentos/seilaal/slaa.cs/bin/Debug/net10.0/slaa.cs.deps.json
+/home/victor/Documentos/seilaal/slaa.cs/bin/Debug/net10.0/slaa.cs.runtimeconfig.json
+/home/victor/Documentos/seilaal/slaa.cs/bin/Debug/net10.0/slaa.cs.dll
+/home/victor/Documentos/seilaal/slaa.cs/bin/Debug/net10.0/slaa.cs.pdb
+/home/victor/Documentos/seilaal/slaa.cs/obj/Debug/net10.0/slaa.cs.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor/Documentos/seilaal/slaa.cs/obj/Debug/net10.0/slaa.cs.AssemblyInfoInputs.cache
+/home/victor/Documentos/seilaal/slaa.cs/obj/Debug/net10.0/slaa.cs.AssemblyInfo.cs
+/home/victor/Documentos/seilaal/slaa.cs/obj/Debug/net10.0/slaa.cs.csproj.CoreCompileInputs.cache
+/home/victor/Documentos/seilaal/slaa.cs/obj/Debug/net10.0/slaa.cs.dll
+/home/victor/Documentos/seilaal/slaa.cs/obj/Debug/net10.0/refint/slaa.cs.dll
+/home/victor/Documentos/seilaal/slaa.cs/obj/Debug/net10.0/slaa.cs.pdb
+/home/victor/Documentos/seilaal/slaa.cs/obj/Debug/net10.0/slaa.cs.genruntimeconfig.cache
+/home/victor/Documentos/seilaal/slaa.cs/obj/Debug/net10.0/ref/slaa.cs.dll
